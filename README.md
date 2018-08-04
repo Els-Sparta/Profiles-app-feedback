@@ -16,9 +16,9 @@
 ### Hanad Ahmed:  
 What I felt could be improved is that in the summary the character count could be increased as there was only 600 character available and that is including spaces and full stops, commas and so-forth.
 
-Another thing which i felt could be improved was in education the next box after instution which was course only allowed you to put in one course at a time. So if you wanted to put in your educational history your high school history you would need to list out every single subject as you did many different course whilst in high school and filling in the exact same thing but changing the courses ten times is not very effective nor efficient.
+Another thing which i felt could be improved was in education the next box after institution which was course only allowed you to put in one course at a time. So if you wanted to put in your educational history your high school history you would need to list out every single subject as you did many different course whilst in high school and filling in the exact same thing but changing the courses ten times is not very effective nor efficient.
 
-Lastly i didnt understand why the profile page had to be the last thing to be filled out. Usually you would fill out the summary and move your way forward to employment history and so forth. Having it this way makes it difficult for the user as there isn't any helpful popup boxes telling you to complete the other sections first.
+Lastly, i didn't understand why the profile page had to be the last thing to be filled out. Usually you would fill out the summary and move your way forward to employment history and so forth. Having it this way makes it difficult for the user as there isn't any helpful popup boxes telling you to complete the other sections first.
 
 ### Haseeb Younis:  
 * text
@@ -44,7 +44,12 @@ Education
 * text
 
 ### Nattinan Oukongka:  
-* text
+*  It's simple and easy to use, but not very well designed.
+*  Instructions are not very detailed i.e. on the Education section, it should be specified what type/level of educations should be provided.
+*   Profile isn't very well-formatted.
+*   No formatting options, even the custom section is not customisable i.e. you should at least be able to change text sizes.
+*   In the responsive mode, the Profile page isn't very well presented. The summary section should be cut off, and just display the first few lines as it doesn't look very attractive; it looks cluttered.
+*   The way the "Approved Profiles," "Pending Profiles," "Rejected Profiles," and "Draft Profiles" are listed isn't a very appealing; it looks awkward. Maybe have them in a drop-down menu option somewhere visible, like on the same line as Profile but set to the right?
 
 ### Oceane Lonneux:  
 * text
