@@ -44,12 +44,12 @@ Education
 * text
 
 ### Nattinan Oukongka:  
-*  It's simple and easy to use, but not very well designed. 
+*  It's simple and easy to use, but not very well designed.
 *  Instructions are not very detailed i.e. on the Education section, it should be specified what type/level of educations should be provided.
 *   Profile isn't very well-formatted.
 *   No formatting options, even the custom section is not customisable i.e. you should at least be able to change text sizes.
-*   In the responsive mode, the Profile page isn't very well displayed. The summary section should be cut off, and only the first few lines should be displayed as it doesn't look very good overall.
-*   The way the "Approved Profiles," "Pending Profiles," "Rejected Profiles," and "Draft Profiles" are listed isn't a very good design. Maybe have them in a drop-down menu option somewhere visible, like on the same line as Profile but set to the right?
+*   In the responsive mode, the Profile page isn't very well presented. The summary section should be cut off, and just display the first few lines as it doesn't look very attractive; it looks cluttered.
+*   The way the "Approved Profiles," "Pending Profiles," "Rejected Profiles," and "Draft Profiles" are listed isn't a very appealing; it looks awkward. Maybe have them in a drop-down menu option somewhere visible, like on the same line as Profile but set to the right?
 
 ### Oceane Lonneux:  
 * text
