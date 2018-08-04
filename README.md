@@ -4,7 +4,14 @@
 * text
 
 ### Eduardas Verba:  
-* text
+* Make course text limit bigger  
+* Have a selection where you could choose if you have a uni degree or not  
+* after creating a project have a button to quickly add another one instead of going all the way back to the projects page. - or just send back to the projects page instead.  
+* ADD edit button next to destroy as clicking the name isn't intuitive and it doesn't look like a link thought it was just colored text. so instead just have: Destroy | edit  
+* have the description box to auto expand, don't like the look of it being 2 line and I have to scroll. even when I have half of the screen empty bellow the descrption box.  
+* when in mobile view, have log-out on the same line as the hamburger glyphicon, show the name only when ther nav bar is expanded. this is because the name takes up space which makes it look like you have 2 navbars.  
+* add a feature where you could order your projects.  
+* ... add a correct character count to description... make it clear it counts the title too.  
 
 ### Hanad Ahmed:  
 What I felt could be improved is that in the summary the character count could be increased as there was only 600 character available and that is including spaces and full stops, commas and so-forth.
