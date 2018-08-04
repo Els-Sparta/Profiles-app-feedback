@@ -20,7 +20,6 @@ Another thing which i felt could be improved was in education the next box after
 
 Lastly i didnt understand why the profile page had to be the last thing to be filled out. Usually you would fill out the summary and move your way forward to employment history and so forth. Having it this way makes it difficult for the user as there isn't any helpful popup boxes telling you to complete the other sections first.
 
-
 ### Haseeb Younis:  
 * text
 
