@@ -55,7 +55,13 @@ Education
 * text
 
 ### Reece Collett:  
-* text
+* Allow more characters for the summary as some previous summaries, such as my own, might be incompatible with the current amount of allowed characters.
+* Allow for lists to be inputted or created.
+* When bullet points are added, they don't appear on the document as a formatted list, just a paragraph with some bullet points in the middle.
+* Allow for longer certification titles.
+* Text boxes for titles of certifications need to be larger to be able to see all or at least most of what has been entered.
+* Have a section for the initial information such as summary, degree and stream (maybe all in the same section) for consistency.
+* When trying to submit my profile from draft to pending, the app said that there was an error. When I recreated the profile and saved it as pending first, It again came up with an error. It saved it as pending this time so I am not sure if an error occurred at all.
 
 ### Tasneem Mahmud:  
 * text
