@@ -52,7 +52,11 @@ Education
 *   The way the "Approved Profiles," "Pending Profiles," "Rejected Profiles," and "Draft Profiles" are listed isn't a very appealing; it looks awkward. Maybe have them in a drop-down menu option somewhere visible, like on the same line as Profile but set to the right?
 
 ### Oceane Lonneux:  
-* text
+* No skills or interests section? contact section? Languages?
+* Characters don't decrease as we type (some sections do, but not most of them).
+* More characters in some sections as projects or skills would be nice.
+* !!! No way to have 'present' in dates. We have to put a defined day.
+* A nicer website would be great, as some more options (bullets points, bold, ...).
 
 ### Reece Collett:  
 * Allow more characters for the summary as some previous summaries, such as my own, might be incompatible with the current amount of allowed characters.
