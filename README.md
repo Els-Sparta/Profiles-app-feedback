@@ -1,7 +1,11 @@
 # Profiles app feedback
 
 ### Ealilan Mathivannan:  
-* text
+* For the employment section there is no option for being currently employed.
+* Allow more characters for project title.
+* Add a Volunteering Section to Employment history and rather than ‘custom section’ it could be additional achievements or Hobbies.
+* A way to know you are reaching your character limit.
+
 
 ### Eduardas Verba:  
 * Make course text limit bigger  
@@ -68,7 +72,7 @@ Education
 * When trying to submit my profile from draft to pending, the app said that there was an error. When I recreated the profile and saved it as pending first, It again came up with an error. It saved it as pending this time so I am not sure if an error occurred at all.
 
 ### Tasneem Mahmud:  
-* The profiles app is very easy to use and very simple. Just working on the 'adding text' section may be easier if it would expand and we could see more clearly on what we had written. 
+* The profiles app is very easy to use and very simple. Just working on the 'adding text' section may be easier if it would expand and we could see more clearly on what we had written.
 
 ### Thomas 'Ivor' Lishman:  
 * text
