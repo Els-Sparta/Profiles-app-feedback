@@ -68,7 +68,7 @@ Education
 * When trying to submit my profile from draft to pending, the app said that there was an error. When I recreated the profile and saved it as pending first, It again came up with an error. It saved it as pending this time so I am not sure if an error occurred at all.
 
 ### Tasneem Mahmud:  
-* text
+* The profiles app is very easy to use and very simple. Just working on the 'adding text' section may be easier if it would expand and we could see more clearly on what we had written. 
 
 ### Thomas 'Ivor' Lishman:  
 * text
