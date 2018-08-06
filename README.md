@@ -38,9 +38,11 @@ Education
 * text
 
 ### Logaraj Sivachelvan:  
+
 Copy and paste function does not work on the summary section
 Some of the title boxes in the pages are quite small, so hard to know any mistakes that might have been made while typing
 Cannot enter the current employment as it requires  the end date
+
 
 ### Mhaventhan Arunthavalingam:  
 * text
@@ -54,7 +56,12 @@ Cannot enter the current employment as it requires  the end date
 *   The way the "Approved Profiles," "Pending Profiles," "Rejected Profiles," and "Draft Profiles" are listed isn't a very appealing; it looks awkward. Maybe have them in a drop-down menu option somewhere visible, like on the same line as Profile but set to the right?
 
 ### Oceane Lonneux:  
-* text
+* No skills or interests section? contact section? Languages?
+* Characters don't decrease as we type (some sections do, but not most of them).
+* More characters in some sections as projects or skills would be nice.
+* !!! No way to have 'present' in dates. We have to put a defined day.
+* A nicer website would be great, as some more options (bullets points, bold, ...).
+
 
 ### Reece Collett:  
 * Allow more characters for the summary as some previous summaries, such as my own, might be incompatible with the current amount of allowed characters.
@@ -66,18 +73,19 @@ Cannot enter the current employment as it requires  the end date
 * When trying to submit my profile from draft to pending, the app said that there was an error. When I recreated the profile and saved it as pending first, It again came up with an error. It saved it as pending this time so I am not sure if an error occurred at all.
 
 ### Tasneem Mahmud:  
-* text
+
+* The profiles app is very easy to use and very simple. Just working on the 'adding text' section may be easier if it would expand and we could see more clearly on what we had written. 
 
 ### Thomas 'Ivor' Lishman:  
 * text
 
 ### Viren Mistry:  
+
 * When using the profiles app, what I found good about the app was....
  * The apps was easy to use.
  * All the headings allowed me to access all the webpages
  * Page is nicely laid out
  * All links work.
-
 
 * What I think needs improving was...
   * The Certificate and Custom section title field needs to have a longer field width, for I can not see a lot of what I typed.
